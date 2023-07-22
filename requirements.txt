@@ -1,0 +1,7 @@
+keras
+tensorflow
+sklearn
+nltk
+numpy
+regex
+pandas
